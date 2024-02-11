@@ -1,2 +1,19 @@
-
-/* Your CSS Code here. */
+body{
+	text-align:center;
+}
+#name{
+	background-color:lightblue;
+}
+#phone{
+	background-color:lightgoldenrodyellow;
+}
+#address{
+	background-color:lightcyan;
+}
+select{
+	background-color:lightpink;
+}
+button{
+	color:white;
+	background-color:navy;
+}
